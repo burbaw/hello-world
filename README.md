@@ -1,3 +1,4 @@
 # hello-world
-Hello
-Um plz b nice 2 me
+Hello,
+If you are reading this README I'd like to say thank you for somehow discovering me and talking the time to read this.
+
